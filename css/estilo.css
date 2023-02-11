@@ -1,0 +1,19 @@
+#clock {
+    font-size: 175px;
+    width: 900px;
+    margin: 200px;
+    text-align: center;
+    border: 10px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+}
+
+body {
+    background-color: #000000;
+}
+
+footer {
+    color: aliceblue;
+    text-align: center;
+    background-color: rgba(64, 57, 57, 0.63);
+}
